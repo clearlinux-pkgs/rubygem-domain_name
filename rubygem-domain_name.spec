@@ -4,7 +4,7 @@
 #
 Name     : rubygem-domain_name
 Version  : 0.5.20160216
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/domain_name-0.5.20160216.gem
 Source0  : https://rubygems.org/downloads/domain_name-0.5.20160216.gem
 Summary  : No detailed summary available
